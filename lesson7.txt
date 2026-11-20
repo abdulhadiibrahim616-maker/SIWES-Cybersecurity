@@ -1,0 +1,12 @@
+Lesson 7 - Hash da Password Cracking
+Date: 20 Nov 2026
+
+Hash = password bayan an canza shi ya zama haruffa marasa ma'ana
+SHA256 na 12345 = 5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5
+
+Abin da na yi:
+Na yi hash da sha256sum
+John bai yi aiki ba saboda tsohon version
+Na karya hash da Python + wordlist nawa, ya gano 12345
+
+Darasi: Kada ayi amfani da password mai sauki da ke cikin wordlist
