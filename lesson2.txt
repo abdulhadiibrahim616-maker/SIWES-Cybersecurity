@@ -1,0 +1,10 @@
+LESSON 02 - Linux Commands
+Date: 20 Nov 2026
+
+pwd = shows where I am
+ls = shows files in folder
+cd = change folder / enter folder
+cd .. = go back one folder
+mkdir = make new folder
+
+Today I learned to move without mouse like a hacker
