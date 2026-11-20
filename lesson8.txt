@@ -1,20 +1,5 @@
-Lesson 8 - Nmap
-Date: 20 Nov 2026
-
-Nmap = kayan duba abin da ke kan network
-127.0.0.1 = computer na kaina (localhost)
--sn = duba waye ke kunne kawai
--sV = duba service da version
-
-Abin da na yi:
-Na yi nmap -sn 192.168.1.0/24 - na samu 0 hosts, saboda ba network na bane
-Na yi nmap -sn 192.168.185.0/24 - na samu 2 hosts:
-  192.168.185.91 = gateway / router
-  192.168.185.142 = computer na
-Na yi nmap 127.0.0.1 - na samu ports 2 a bude:
-  631/tcp = ipp (printer)
-  3389/tcp = ms-wbt-server (remote desktop)
-  998 ports a rufe suke - computer na yana da tsaro
-
-Darasi: Kada ayi scan na network na wani ba tare da izini ba
-Yi amfani da Nmap don kare network dinka kawai
+UPDATE: Na rufe Port 3389!
+Na gano gnome-remote-desktop ne ke bude shi
+Na yi systemctl --user stop gnome-remote-desktop
+Na sake yin nmap - yanzu 999 ports a rufe suke, 631 kawai a bude
+Computer na ya fi tsaro yanzu!
