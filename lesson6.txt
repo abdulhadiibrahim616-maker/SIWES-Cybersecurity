@@ -1,0 +1,14 @@
+Lesson 6 - Wireshark
+Date: 20 Nov 2026
+
+Wireshark = CCTV na internet
+Na kama packets 585 daga wlo1
+My IP = 192.168.185.142
+Google IP = 142.250.129.102
+
+Protocols da na gani:
+QUIC = Chrome yana magana da Google
+TCP = tabbatar da data ya isa
+TLSv1.2 = data a rufe yake, babu wanda zai iya karanta shi
+
+Doka: Kada a saurari network na wani ba tare da izini ba
