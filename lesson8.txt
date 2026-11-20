@@ -1,3 +1,12 @@
+Lesson 8: Nmap Scan - Neman Bude Ports
+IP na: 192.168.185.142
+Gateway: 192.168.185.91
+
+Na yi nmap 127.0.0.1, na gano:
+- 631/tcp open ipp (printer)
+- 3389/tcp open ms-wbt-server (Remote Desktop)
+- 998 ports a rufe suke
+
 UPDATE: Na rufe Port 3389!
 Na gano gnome-remote-desktop ne ke bude shi
 Na yi systemctl --user stop gnome-remote-desktop
