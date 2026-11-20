@@ -1,0 +1,13 @@
+Lesson 5 - Nmap
+Date: 20 Nov 2026
+
+Nmap = kayan duba ports
+nmap 127.0.0.1 = duba kofofin computer dina
+nmap -sV = duba sunan service da version
+
+Abin da na gano:
+Port 631 open - ipp - CUPS 2.4 (Printer)
+Port 3389 open - ms-wbt-server (Remote Desktop)
+998 ports closed
+
+Doka: Kada ayi scan ba tare da izini ba
