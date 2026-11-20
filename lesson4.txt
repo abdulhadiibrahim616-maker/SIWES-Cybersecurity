@@ -1,0 +1,6 @@
+Lesson 4 - Port da Firewall
+Port 53 = DNS
+Port 631 = Printer
+Port 3389 = Remote Desktop
+Firewall = mai gadi a bakin kofa
+ss -tuln = duba ports da suke bude
